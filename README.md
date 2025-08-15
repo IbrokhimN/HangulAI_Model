@@ -96,13 +96,3 @@ MIT License - Free for academic and commercial use
 
 > "Perfect for Korean OCR applications, educational tools, and language learning apps" - *AI Research Team*
 ``` 
-
-This version uses:
-- Clean section headers with icons
-- Tables for feature comparison
-- Code blocks for technical details
-- Directory tree visualization
-- Placeholder for metrics visualization
-- Callout boxes for important notes
-- Consistent emoji usage
-- Responsive layout for GitHub/GitLab readability
